@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  font-size: 16px;
+}
+.super {
+  background-color: #323437;
+  min-height: 100vh;
+}
+.main {
+  padding: 10px;
+}
+pre {
+  display: inline;
+}
+letter {
+  color: #646669;
+  font-size: 1.5rem;
+  white-space: pre-wrap;
+}
+.main:focus {
+}
